@@ -1,4 +1,4 @@
-# Project-3-Adidas-Sales-Dashboard-Using-Tableau
+# [Project-3-Adidas-Sales-Dashboard-Using-Tableau](https://github.com/Josephmathew882/Project-3-Adidas-Sales-Dashboard-Using-Tableau)
 The aim of the project is to build the dashboards related to the sales of Adidas brand using Tableau.
 * Data - Data set is taken from Kaggle and this dataset include details such as the number of units sold, the total sales, the location of the sales, the 
          type of product sold, and other relevant information.
